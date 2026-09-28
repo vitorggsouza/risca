@@ -1,0 +1,23 @@
+{
+  "name": "risca",
+  "version": "1.0.0",
+  "description": "Risca is a simple and intuitive task management web application designed to help users quickly and efficiently create, manage, and organize their tasks.",
+  "homepage": "https://github.com/vitorggsouza/risca#readme",
+  "bugs": {
+    "url": "https://github.com/vitorggsouza/risca/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorggsouza/risca.git"
+  },
+  "license": "MIT",
+  "author": "Vitor Souza",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
