@@ -14,5 +14,14 @@
             "email": "319164726+vitorggsouza@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "./src/php/helpers/abort.php",
+            "./src/php/helpers/get_msgs.php",
+            "./src/php/helpers/get_metadata.php",
+            "./src/php/helpers/validate_id.php",
+            "./src/php/helpers/redirect.php"
+        ]
+    }
 }
